@@ -28,5 +28,5 @@ Proof-of-Stake Minimum Age: 12 hours
 Proof-of-Stake Maximum Age: Unlimited
 Difficulty readjusts every block
 Confirmations on Transactions: 10
-CoinBase Maturity: 1200
+CoinBase Maturity: 30
 
