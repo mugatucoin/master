@@ -20,7 +20,6 @@ Blocks 2880-20000: 88 MUGA - 1,301,120
 Pow mining lasts until block 20000, or approximately 8 days.
 
 Proof-of-Stake interest will begin being generated after block 14400, with combined PoW+PoS mining until block 25000.
-Premine: 0%!
 IPO:O%!
 Stake interest: 19% per year
 Block time: 30 seconds
