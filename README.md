@@ -1,7 +1,7 @@
 
 MugatuCoin
 
-MugatuCoin is a PoW/PoS-based cryptocurrency, that aims to achieve global domination by any means necessary.
+MugatuCoin is a PoW/PoS-based cryptocurrency with a short mining period, that aims to achieve global domination by any means necessary.
 
 RPC Port: 49819
 P2P Port: 49818
